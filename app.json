@@ -1,0 +1,4 @@
+{
+  "name": "GitHub Bot",
+  "description": "A bot that monitors pull request comments and responds to commands addressed to it."
+}
